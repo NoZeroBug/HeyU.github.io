@@ -1,0 +1,68 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.header{
+	height:951px;
+	background: url("img/rectangle-3.jpg") no-repeat;
+	background-size: 100%;
+}
+#logo{
+	color: #ffffff;
+	font-family: "Lato-Black";
+	font-size: 50px;
+	font-weight: 400;
+	margin-left: 50px;
+}
+.navbar-inverse{
+	background-color: transparent !important;
+	border: none !important;
+}
+.navbar-collapse, .collapse{
+	background: #b30000;
+}
+.nav>li>a{
+	color:white !important;
+	font-family: Lato-Regular;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28px;
+	text-transform: uppercase;
+}
+.navbar-toggle, .navbar-toggle:hover {
+	border:none !important;
+	background-color: transparent !important;
+}
+.navbar{
+	padding-top: 41px;
+}
+.nav{
+	padding-right: 50px;
+}
+.header-name{
+	margin-top:296px;
+	margin-left: 267px;
+}
+.header-name>.row>.col-lg-6>h1{
+	color: #ffffff;
+	font-family: "Lato-Black";
+	font-size: 72px;
+	font-weight: 400;
+	letter-spacing: 2.92px;
+	margin-bottom: 30px;
+}
+.header-name>.row>.col-lg-6>h5{
+	color: #ffffff;
+	font-family: Lato-Regular;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.HeyU{
+	font-family: "Lato-Black";
+	font-weight: 900;
+}
+.header-iphone>img{
+	margin-left: 150px;
+	margin-top:-170px;
+}
